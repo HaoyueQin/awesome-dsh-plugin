@@ -1267,5 +1267,11 @@
 ,
  "https://github.com/Whale-Zhang/dsh-complete-chime": [
   "https://raw.githubusercontent.com/Whale-Zhang/dsh-complete-chime/main/docs/settings-card.png"
+ ],
+ "https://github.com/HaoyueQin/deepseek-harness-background": [
+  "https://raw.githubusercontent.com/HaoyueQin/deepseek-harness-background/main/docs/images/home.jpg",
+  "https://raw.githubusercontent.com/HaoyueQin/deepseek-harness-background/main/docs/images/conversation.jpg",
+  "https://raw.githubusercontent.com/HaoyueQin/deepseek-harness-background/main/docs/images/settings.jpg"
+
  ]
 }
