@@ -1329,10 +1329,5 @@
   "https://raw.githubusercontent.com/WSL043/dsh-native-reasoning-slider/main/docs/assets/reasoning-slider-energy-zh.png",
   "https://raw.githubusercontent.com/WSL043/dsh-native-reasoning-slider/main/docs/assets/mode-settings-en.png",
   "https://raw.githubusercontent.com/WSL043/dsh-native-reasoning-slider/main/docs/assets/mode-settings-dark-zh.png"
- ],
- "https://github.com/HaoyueQin/deepseek-harness-background": [
-  "https://raw.githubusercontent.com/HaoyueQin/deepseek-harness-background/main/docs/images/home.jpg",
-  "https://raw.githubusercontent.com/HaoyueQin/deepseek-harness-background/main/docs/images/conversation.jpg",
-  "https://raw.githubusercontent.com/HaoyueQin/deepseek-harness-background/main/docs/images/settings.jpg"
  ]
 }
